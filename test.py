@@ -4,10 +4,7 @@ def func_1(a,b,c):
 
 
 def func_2(a,b,c):
-<<<<<<< HEAD
     k = a + b + c + 'qwqwqweqweq'
-=======
->>>>>>> refs/remotes/origin/main
     print(b)
 
 
