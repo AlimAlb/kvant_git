@@ -4,7 +4,6 @@ def func_1(a,b,c):
 
 
 def func_2(a,b,c):
-    k = a + b + c
     print(b)
 
 
